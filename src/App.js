@@ -12,7 +12,7 @@ import Phones from './components/Phones';
 import Add from './components/Add';
 import Update from './components/Update';
 
-const url = 'http://localhost:300/phones'
+const url = 'https://apirest-phonecatalog.herokuapp.com/phones'
 
 class App extends Component {
 
