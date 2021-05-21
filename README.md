@@ -1,3 +1,26 @@
+# Phone Catalog made with React + Node.js
+
+CRUD example of a simple phone website made by using React and node.js.
+
+## Deployed
+
+This app is deployed in Heroku. You can visit and check all the funcionalities: [https://phonecatalog-react.herokuapp.com/](https://phonecatalog-react.herokuapp.com/)
+
+## API Rest
+
+ApiRest is also deployed, so you don't need to do something to activated. Just wait to Heroku app to wake up.
+Yo can check the git repositorie if you desire: [https://github.com/Bermejo3/apiRest-phoneCatalog](https://github.com/Bermejo3/apiRest-phoneCatalog)
+
+## Description
+
+In the homepage you can check all the phones that are in the MySQL Workbench database.
+You are able to ADD new phones in the add section.
+You are able to DELETE phones by using the DELETE button.
+You can check for more information by using the MORE INFO button.
+You can UPDATE the information.
+You can SEARCH by name or FILTER by manufacturer.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +62,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
