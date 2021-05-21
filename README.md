@@ -8,17 +8,17 @@ This app is deployed in Heroku. You can visit and check all the funcionalities: 
 
 ## API Rest
 
-ApiRest is also deployed, so you don't need to do something to activated. Just wait to Heroku app to wake up.
+ApiRest is also deployed, so you don't need to do something to activated. Just wait to Heroku app to wake up.\
 Yo can check the git repositorie if you desire: [https://github.com/Bermejo3/apiRest-phoneCatalog](https://github.com/Bermejo3/apiRest-phoneCatalog)
 
 ## Description
 
-In the homepage you can check all the phones that are in the MySQL Workbench database.
-You are able to ADD new phones in the add section.
-You are able to DELETE phones by using the DELETE button.
-You can check for more information by using the MORE INFO button.
-You can UPDATE the information.
-You can SEARCH by name or FILTER by manufacturer.
+In the homepage you can check all the phones that are in the MySQL Workbench database.\
+You are able to ADD new phones in the add section.\
+You are able to DELETE phones by using the DELETE button.\
+You can check for more information by using the MORE INFO button.\
+You can UPDATE the information.\
+You can SEARCH by name or FILTER by manufacturer.\
 
 
 # Getting Started with Create React App
