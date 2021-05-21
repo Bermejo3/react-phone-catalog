@@ -1,38 +1,53 @@
-.App {
+#root{
+  background-color: #fafafa;
+  height: 100vh;
+}
+
+.spinner{
+  display: flex;
   text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Modal */
+.modalCard{
+  background-color: rgba(0,0,0,0.6);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.modalTitle{
+  color:dodgerblue;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.modalBody{
+  background-color: #fafafa;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.modalBody img{
+  width: 300px !important;
+  margin-bottom: 1rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+.modalBody ul{
+  font-size: large;
+}
+
+.modalBody h6{
+  padding: 10px;
+}
+
+.modalFooter{
+  display: flex;
+  justify-content: space-between !important
+}
+
+@media only screen and (max-width: 700px) {
+  .modalBody img{
+    width: 200px !important;
+    margin-bottom: 1rem;
   }
 }

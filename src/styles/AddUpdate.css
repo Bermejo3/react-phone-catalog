@@ -1,0 +1,21 @@
+.formLabel{
+    width: 125px
+}
+
+.titlePhones{
+    text-align:center;
+    margin: 1rem;
+    color:dodgerblue;
+}
+
+.formSize{
+    width: 330px;
+    margin: 0 1rem;
+}
+
+.formCentered{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

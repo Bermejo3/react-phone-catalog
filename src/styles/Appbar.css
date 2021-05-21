@@ -1,0 +1,13 @@
+.linkNavbar{
+    text-decoration: none;
+    color: #fff
+}
+
+.linkNavbar:hover{
+    text-decoration: none;
+    color: dodgerblue
+}
+
+.titleNavbar{
+    color: dodgerblue !important
+}
